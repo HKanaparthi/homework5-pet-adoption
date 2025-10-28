@@ -1,0 +1,16 @@
+{
+  "name": "homework5-observable-dashboard",
+  "version": "1.0.0",
+  "description": "Exploratory Visual Analysis with Observable Framework",
+  "type": "module",
+  "scripts": {
+    "dev": "observable preview",
+    "build": "observable build",
+    "deploy": "npm run build && npx gh-pages -d dist",
+    "clean": "rm -rf dist .observablehq/cache"
+  },
+  "devDependencies": {
+    "@observablehq/framework": "latest",
+    "gh-pages": "^6.0.0"
+  }
+}
