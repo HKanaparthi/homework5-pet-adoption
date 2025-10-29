@@ -5,8 +5,8 @@ toc: false
 # Pet Adoption Center Exploratory Analysis
 
 **Student Information:**
-Name: [Your First Name] [Your Last Name]
-Student ID: [Your Student ID]
+Name: H [K]
+Student ID: [9981]
 
 ---
 

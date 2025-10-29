@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/harshakanaparthi/Downloads/**)",
+      "Bash(tree:*)",
+      "Bash(chmod:*)",
+      "Bash(./verify-setup.sh:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
